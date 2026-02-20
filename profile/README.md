@@ -1,6 +1,12 @@
-# StyLend
+<p align="center">
+  <img src="https://github.com/StyLend/.github/blob/main/stylend-logo.webp" width="200" alt="StyLend Logo" />
+</p>
 
-**Lending & borrowing protocol built entirely on Arbitrum Stylus with Rust and WebAssembly.**
+<h1 align="center">StyLend</h1>
+
+<p align="center">
+  <strong>Lending & borrowing protocol built entirely on Arbitrum Stylus with Rust and WebAssembly.</strong>
+</p>
 
 StyLend is a decentralized lending & borrowing protocol built natively on [Arbitrum Stylus](https://docs.arbitrum.io/stylus/stylus-gentle-introduction) using Rust + WASM. The protocol supports multi-asset lending, isolated collateral vaults, dynamic interest rates, and cross-chain borrowing via [LayerZero](https://layerzero.network/). Currently deployed on Arbitrum Sepolia testnet.
 
